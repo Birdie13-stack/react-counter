@@ -87,5 +87,6 @@ button:hover {
 @media (max-width: 480px) {
   .counter {
     width: 80%;
+    gap: 20px;
   }
 }
