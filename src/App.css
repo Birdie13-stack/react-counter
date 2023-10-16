@@ -83,3 +83,9 @@ button:hover {
   background-color: #bad2fd;
   color: #1444c7;
 }
+
+@media (max-width: 480px) {
+  .counter {
+    width: 80%;
+  }
+}
